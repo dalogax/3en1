@@ -17,15 +17,9 @@ Tanto el movimiento como el arma son manejados por control remoto desde una emis
 A continuación detallo los materiales y componentes que fueron necesarios para su construcción:
 
 - 1 plancha de aluminio de 1mm de grosor.
-- 2 [motores DC]([https://tienda.bricogeek.com/motores/220-motor-micro-metal-dc-con-reductora-298-1.html?search_query=Micro+Metal&results=35](https://tienda.bricogeek.com/motores/220-motor-micro-metal-dc-con-reductora-298-1.html?search_query=Micro+Metal&results=35)) tipo "micro metal"
-Buscar en eBay por "DC12V 100/200/2000RPM N20 Micro Gear Motor Long Shaft M3x20mm w/ Gear Box Newest"
-![Motors](/res/motors.jpg)
-- 2 ruedas de gomaespuma de 68mm de diámetro.
-Buscar en eBay por "Racing Foam Tires Wheel Rims 4Pcs Set For HSP HPI 1/10 On-road RC Car 12mm Hex"
-![Wheels](/res/wheels.jpg)
-- 2 acoples hexagonales para eje de 3mm.
-![Acoples](/res/acoples.jpg)
-Buscar en eBay por ["2x 3mm Flexible Motor Brass Shaft Hex Coupling Coupler w/ wrench for Tyre Wheel"](https://www.ebay.com/itm/2x-3mm-Flexible-Motor-Brass-Shaft-Hex-Coupling-Coupler-w-wrench-for-Tyre-Wheel/253223731688?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
+- 2 [motores DC]([https://tienda.bricogeek.com/motores/220-motor-micro-metal-dc-con-reductora-298-1.html?search_query=Micro+Metal&results=35](https://tienda.bricogeek.com/motores/220-motor-micro-metal-dc-con-reductora-298-1.html?search_query=Micro+Metal&results=35)) tipo "micro metal".
+- 2 [ruedas de gomaespuma](https://www.ebay.com/sch/i.html?_nkw=Racing+Foam+Tires+Wheel+Rims+4Pcs+Set+For+HSP+HPI+1%2F10+On-road+RC+Car+12mm+Hex) de 68mm de diámetro.
+- 2 [acoples hexagonales](https://www.ebay.com/itm/2x-3mm-Flexible-Motor-Brass-Shaft-Hex-Coupling-Coupler-w-wrench-for-Tyre-Wheel/253223731688?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) para eje de 3mm.
 - 2 ESC para motores DC con marcha reversible de 10A.
 - 1 motor brushless RCX 1804 2400kv.
 - 1 ESC para motor Brushless.
@@ -33,6 +27,8 @@ Buscar en eBay por ["2x 3mm Flexible Motor Brass Shaft Hex Coupling Coupler w/ w
 - 1 batería LiPO 3S 600mAh.
 - Tornillería M3, M2 y espaciadores.
 - 1 Emisora Flysky FS-TH9X 2.4GHz con emisor y receptor.
+
+![Wheels](/res/wheels.jpg) ![Acoples](/res/acoples.jpg) ![Motors](/res/motors.jpg)
 
 ## Diseño
 Idealmente cuando se diseña un aparato de este tipo se utiliza un programa de modelado por ordenador con el que poder jugar con dimensiones y formas sin necesitar utilizar ningún material y teniendo total libertad de creación. 
