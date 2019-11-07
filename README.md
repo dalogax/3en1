@@ -59,7 +59,7 @@ La electrónica se basa en un receptor de emisora que se encarga de mandar órde
 ![Wiring](/res/wiring.jpg)
 
 ### Configuración
-Antes de empezar a poner todo junto es hora de configurar la emisora. Podríamos asociar cada uno de los 3 canales a una palanca o control de la emisora, pero manejar el robot iba a se algo complejo. Finalmente decidomos que lo más sencillo era utilizar el sitch derecho (que por defecto se mantiene en el centro) para controlar el movimiento como si manejásemos un tanque.
+Antes de empezar a poner todo junto es hora de configurar la emisora. Podríamos asociar cada uno de los 3 canales a una palanca o control de la emisora, pero manejar el robot iba a se algo complejo. Finalmente decidimos que lo más sencillo era utilizar el sitch derecho (que por defecto se mantiene en el centro) para controlar el movimiento como si manejásemos un tanque.
 El stick izquierdo, que mantiene la posición lo usaremos solo en su eje vertical para controlar la velocidad de giro del arma.
 Además tendremos dos interruptores con funciones extra: uno para inutilizar el robot y otro para que en el caso de que nos vuelquen y tengamos que manejarlo al revés, el stick derecho se invierta y nos sea más sencillo.
 ![emisora](/res/emisora.jpg)
