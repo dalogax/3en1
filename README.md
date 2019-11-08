@@ -35,6 +35,8 @@ Idealmente cuando se diseña un aparato de este tipo se utiliza un programa de m
 
 Nosotros no teníamos los conocimientos para ello por lo que, en su lugar, hicimos directamente un prototipo en cartón, material con el que se puede experimentar rapidamente hasta encontrar las dimensiones y forma adecuadas. El diseño estuvo condicionado por la posesión de algunos componentes reciclados de otros robots, drones, etc. Dado que teníamos un motor brushless con su ESC pensamos que un spinner era lo que más se adecuaba. También queríamos que el robot fuese reversible y que las ruedas estuviesen protegidas por la carrocería por lo que dimos con un diseño en forma de sandwich (de ahí el nombre de 3en1). 
 
+![Desigh](/res/design.jpg)
+
 La tapa superior e inferior cerrarían la carrocería y tendrían huecos para que las ruedas sobresaliesen y tuviesen tracción. En la lamina interior irían sujetos los motores y a su vez el eje de las ruedas. Las tres láminas irían unidas por tornillos pero manteniendo la distancia necesaria entre ellos mendiante unos separadores.
 
 El arma, asomaría por la parte frontal y se situaría verticalmente hacia el centro del robot. Para ello, el motor que la sujerará deberá estar sujeto por su base sobre una de las dos tapas exteriores.
@@ -63,11 +65,10 @@ Antes de empezar a poner todo junto es hora de configurar la emisora. Podríamos
 El stick izquierdo, que mantiene la posición lo usaremos solo en su eje vertical para controlar la velocidad de giro del arma.
 Además tendremos dos interruptores con funciones extra: uno para inutilizar el robot y otro para que en el caso de que nos vuelquen y tengamos que manejarlo al revés, el stick derecho se invierta y nos sea más sencillo.
 ![emisora](/res/emisora.jpg)
-![mixer1](/res/mixer1.jpg)
-![mixer2](/res/mixer2.jpg)
+![mixer](/res/mixer.jpg)
 
 ### Montaje
-Parece lo más simple, pero encajar todas estas piezas en un espacio tan pequeño lleva tiempo. Acortar los cables que incialmente se dejan muy largos o hacer recortes y modificaciones de última hora en el chasis son cosas que están aseguradas.
+Parece lo más simple, pero encajar todas estas piezas en un espacio tan pequeño y sin que haya posibilidad de que el arma autolesione al robot lleva tiempo. Nosotros hemos tenido que acortar los cables que incialmente se dejan muy largos y hacer modificaciones menores en el chasis hasta acomodar todo.
 ![top](/res/top.jpg)
 ![bottom](/res/bottom.jpg)
 ![front](/res/front.jpg)
