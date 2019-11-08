@@ -4,8 +4,8 @@
 **3en1** (aka Terremoto) es un robot de combate dirigido por control remoto de categoría de 1 libra creado para competir en la [OSHWDEM](https://oshwdem.org) 2018. Tras un año ha sido re-habilitado para volver a competir en la edición 2019.
 
 Los diseñadores y constructores del robot son:
-- Benjamin García Aguilar
-- Daniel López García
+- :older_man: Benjamin García Aguilar
+- :boy: Daniel López García
 
 ## Especificaciones
 **3en1** es un robot de tipo **spinner**, es decir, su arma principal es una masa giratoria. En este caso se trata de un disco que ha sido cortado de forma que tenga una muesca con la que golpear.
@@ -71,6 +71,12 @@ Además tendremos dos interruptores con funciones extra: uno para inutilizar el 
 Parece lo más simple, pero encajar todas estas piezas en un espacio tan pequeño y sin que haya posibilidad de que el arma autolesione al robot lleva tiempo. Nosotros hemos tenido que acortar los cables que incialmente se dejan muy largos y hacer modificaciones menores en el chasis hasta acomodar todo.
 ![top](/res/top.jpg)
 ![bottom](/res/bottom.jpg)
+
+Tras montarlo nos dimos cuenta rapidamente que el morro se caía y arrastraba hacia el frente. Para mantenerlo a nivel, reutilizamos dos piezas impresas en 3D dos piezas que permiten que se mantenga a nivel.
+
 ![front](/res/front.jpg)
 ![back](/res/back.jpg)
+
+El peso final del robot es de 460g, tendremos que quitar algún tornillo para poder competir ya que el límite de peso son 454g :sweat_smile:.
+
 ![weight](/res/weight.jpg)
